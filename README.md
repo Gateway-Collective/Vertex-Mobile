@@ -13,9 +13,9 @@ La suite incluye un sistema integrado de alertas acústicas mediante síntesis d
 ---
 ## Capturas de Pantalla
 <p align="center">
-<img width="720" height="1612" alt="Menú Principal de Vertex OS" src="https://github.com/user-attachments/assets/2ab7f13c-6f7b-4f17-a0be-b700e1a248cf" />
-<img width="720" height="1612" alt="Módulo 6: Escáner de Topología Local" src="https://github.com/user-attachments/assets/fcb23dcb-eb5b-4cfe-873e-ba636426c994" />
-<img width="720" height="1612" alt="Módulo 7: Escáner de Puertos" src="https://github.com/user-attachments/assets/0b5bfe8b-31e8-48c7-9d45-237281df1c7f" />
+<img width="250" alt="Menú Principal de Vertex OS" src="https://github.com/user-attachments/assets/2ab7f13c-6f7b-4f17-a0be-b700e1a248cf" />
+<img width="250" alt="Módulo 6: Escáner de Topología Local" src="https://github.com/user-attachments/assets/fcb23dcb-eb5b-4cfe-873e-ba636426c994" />
+<img width="250" alt="Módulo 7: Escáner de Puertos" src="https://github.com/user-attachments/assets/0b5bfe8b-31e8-48c7-9d45-237281df1c7f" />
 </p>
 
 ## Arsenal Operativo (Módulos Integrados)
